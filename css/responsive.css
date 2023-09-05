@@ -52,13 +52,13 @@
     padding: 10px 0;
   }
   #header.sticky .slicknav_nav a {
-    color: #353535;
+    color: #fff;
   }
   #header.sticky .slicknav_nav a:hover {
-    color: #ed5f55;
+    color: #ffc107;
   }
   #header.sticky .slicknav_btn {
-    background: #ed5f55;
+    background: #ffc107;
     color: #fff;
   }
   #header .social-icon {
