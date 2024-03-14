@@ -32,6 +32,7 @@
 #header.normal .slicknav_nav a:hover {
   color: #ffc107;
 }
+
 #header .nav li a::before,
 #header .logo a::before,
 #personal-area .personal-text .btn:hover,
@@ -97,6 +98,7 @@
 .k-line {
   background: #ffc107;
 }
+
 #header .nav li a::after,
 #portfolio .portfolio-nav ul li span::before,
 #clients.section {
